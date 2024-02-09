@@ -1,0 +1,1 @@
+from lexicon_data.load_texts import handlers_text
